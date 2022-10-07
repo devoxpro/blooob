@@ -1,10 +1,10 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "cpa",
+        "show_ads": true,
+        "bannerAd": "admob",
         "InterAd": "admob",
-        "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_banner":"",
+        "admob_inter": "ca-app-pub-2440723889019008/8526114555",
         "facebook_banner": "",
         "facebook_inter": "",
 		"unityTest": false,
@@ -18,7 +18,7 @@
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3,
 		"more_app": "",
-		"privacy": "https://sites.google.com/view/elastic-man/home",
+		"privacy": "https://sites.google.com/view/bloob-opera/home",
 		"rate_us": "https://play.google.com/store/apps/details?id=com.blobopera.singingmusicgame"
     }
 }
