@@ -1,11 +1,11 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "admob",
+        "bannerAd": "facebook",
         "InterAd": "admob",
         "admob_banner":"",
         "admob_inter": "ca-app-pub-2440723889019008/8526114555",
-        "facebook_banner": "",
+        "facebook_banner": "446007617513609_446010680846636",
         "facebook_inter": "",
 		"unityTest": false,
         "unityGameID": "4953422",
