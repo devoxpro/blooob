@@ -2,11 +2,11 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "facebook",
-        "InterAd": "max",
+        "InterAd": "facebook",
         "admob_banner":"",
         "admob_inter": "",
         "facebook_banner": "446007617513609_446010680846636",
-        "facebook_inter": "",
+        "facebook_inter": "446007617513609_447616310686073",
 		"unityTest": false,
         "unityGameID": "4953422",
 		"unityBanner": "Banner_Android",
