@@ -1,7 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "facebook",
+        "bannerAd": "max",
         "InterAd": "facebook",
         "admob_banner":"",
         "admob_inter": "",
@@ -11,7 +11,7 @@
         "unityGameID": "4953422",
 		"unityBanner": "Banner_Android",
 		"unityInter": "Interstitial_Android",
-        "max_banner": "",
+        "max_banner": "38ca812322b28717",
         "max_inter": "82f1a2db88c212ad",
         "CPAImg": "https://i.ibb.co/qDx36w7/ps5.gif",
         "CPAUrl": "https://avantofiles.com/show.php?l=0&u=655865&id=45096&tracking_id=",
