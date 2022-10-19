@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "facebook",
-        "InterAd": "unity",
+        "InterAd": "max",
         "admob_banner":"",
         "admob_inter": "ca-app-pub-2440723889019008/8655369817",
         "facebook_banner": "446007617513609_446010680846636",
