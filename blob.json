@@ -1,7 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "facebook",
+        "bannerAd": "cpa",
         "InterAd": "max",
         "admob_banner":"",
         "admob_inter": "ca-app-pub-2440723889019008/8655369817",
@@ -13,8 +13,8 @@
 		"unityInter": "Interstitial_Android",
         "max_banner": "38ca812322b28717",
         "max_inter": "82f1a2db88c212ad",
-        "CPAImg": "https://i.ibb.co/qDx36w7/ps5.gif",
-        "CPAUrl": "https://avantofiles.com/show.php?l=0&u=655865&id=45096&tracking_id=",
+        "CPAImg": "https://i.ibb.co/cQWFB46/S-6.gif",
+        "CPAUrl": "https://ridefiles.net/show.php?l=0&u=655865&id=47542&tracking_id=",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3,
 		"more_app": "",
